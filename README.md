@@ -1,4 +1,4 @@
-# 🫥 Sobre Mim:
+# 🤠 Sobre Mim:
 Programador Back-End em C#, Python, JavaScript e semelhantes.<br>Formado Técnico em Desenvolvimento de Sistemas e cursando Engenharia de Software.<br>Além da graduação, sigo estudando Machine Learning e Rede Neural em IA
 
 
