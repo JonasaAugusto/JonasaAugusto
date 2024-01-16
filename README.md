@@ -1,5 +1,5 @@
 # 🤠 Sobre Mim:
-Programador Back-End em C#, Python, JavaScript. Conhecimento médio com Front-End.<br>Formado Técnico em Desenvolvimento de Sistemas e cursando Engenharia de Software.<br>
+Programador Back-End em C#, Python, JavaScript, SQL. Conhecimento médio com Front-End.<br>Formado Técnico em Desenvolvimento de Sistemas e cursando Engenharia de Software.<br>
 
 
 ## 🌐 Midias Sociais:
