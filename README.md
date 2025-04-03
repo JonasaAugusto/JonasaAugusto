@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jonas Augusto Santos Oliveira!
+# 👋Eu sou Jonas Augusto Santos Oliveira!
 
 ### 🚀 Desenvolvedor Full Stack (Foco em Back End) | Engenharia de Software
 
