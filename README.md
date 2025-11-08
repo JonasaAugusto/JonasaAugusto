@@ -16,7 +16,7 @@
   <a href="https://github.com/JonasaAugusto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://jonasaugustosantos.github.io" target="_blank">
+  <a href="https://jonasaaugusto.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
