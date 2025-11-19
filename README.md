@@ -114,7 +114,7 @@
 
 <p align="center">
   <strong>✨ Meu portfólio completo está disponível em:</strong> 
-  <a href="https://jonasaugustosantos.github.io" target="_blank">
+  <a href="jonasaugusto.github.io" target="_blank">
     https://jonasaugustosantos.github.io
   </a>
 </p>
