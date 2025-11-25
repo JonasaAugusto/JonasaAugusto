@@ -2,7 +2,7 @@
 <h2 align="center">🎯 Perfil Profissional</h2> <br> <p align="center"> Sou <strong>Desenvolvedor Back-End Júnior</strong> com experiência prática em <strong>IA generativa</strong>, <strong>automação de processos</strong> e <strong>integrações complexas via APIs</strong>. Atuei em startups early-stage com <strong>autonomia total</strong>, criando soluções reais que reduziram tempo operacional, otimizaram fluxos críticos e mantiveram sistemas em alta disponibilidade. </p> <p align="center"> Com média <strong>9.3/10</strong> em Engenharia de Software e foco em Python, IA aplicada a negócios e arquitetura de automação, busco crescer como <strong>Back-End Developer</strong> enquanto avanço certificações cloud (AWS/Azure). </p>
 <h2 align="center">🛠️ Tecnologias e Habilidades</h2> <br>
 Linguagens de Programação
-
+<br>
 Back-End & IA
 
 Bancos de Dados & DevOps
