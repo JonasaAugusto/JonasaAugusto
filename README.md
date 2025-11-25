@@ -10,25 +10,17 @@ Bancos de Dados & DevOps
 
 <h2 align="center">💼 Experiência Profissional</h2> <br>
 ESTAGIÁRIO – Desenvolvedor de Automação de Processos e IA
-
 Neurodev (Startup) | 2024 – 2025
 
 Desenvolvi automações com Python + N8N integrando múltiplas APIs (WhatsApp, CRM, calendários, bots).
-
 Reduzi tempo operacional e agilizei respostas através de workflows otimizados com IA generativa.
-
 Atuei no monitoramento e sustentação de automações, incluindo Docker, PostgreSQL e Linux CLI.
-
 Apoiei um sistema que processava centenas de transações diárias com supervisão mínima.
-
+ <br> <br>
 DESENVOLVEDOR JÚNIOR – Automação com IA
-
 Bnect (Early Stage) | 2024
-
 Criação de agentes inteligentes para atendimento multicanal utilizando IA generativa.
-
 Integrações com CRM, Bling, Jetcommerce e Google APIs.
-
 Otimizei fluxos e prompts para respostas mais rápidas e maior estabilidade.
 
 <h2 align="center">🎓 Formação Acadêmica</h2> <br>
