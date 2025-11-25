@@ -29,7 +29,7 @@ Universidade Estácio de Sá | 2023 – Presente
 Média global: 9.3/10
 
 Técnico em Desenvolvimento de Software
-
+ <br>
 SENAI Juiz de Fora | 2021 – 2023
 Média: 8.0/10
 
