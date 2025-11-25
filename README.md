@@ -3,21 +3,7 @@
 <h2 align="center">🛠️ Tecnologias e Habilidades</h2> <br>
 Linguagens de Programação
 
-
-
-
-
-
-
-
 Back-End & IA
-
-
-
-
-
-
-
 
 Bancos de Dados & DevOps
 
