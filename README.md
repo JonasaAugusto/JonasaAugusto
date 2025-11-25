@@ -34,7 +34,7 @@ SENAI Juiz de Fora | 2021 – 2023
 Média: 8.0/10
 
 <h2 align="center">🚀 Certificações & Estudos</h2> <br>
-Em Progresso (2025–2026)
+Em Progresso (2025–2026) <br> <br>
 
 AWS Cloud Practitioner (previsto Jan/2026)
 
