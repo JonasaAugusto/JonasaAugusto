@@ -8,12 +8,6 @@ Back-End & IA
 Bancos de Dados & DevOps
 
 
-
-
-
-
-
-
 <h2 align="center">💼 Experiência Profissional</h2> <br>
 ESTAGIÁRIO – Desenvolvedor de Automação de Processos e IA
 
@@ -54,8 +48,6 @@ Em Progresso (2025–2026)
 AWS Cloud Practitioner (previsto Jan/2026)
 
 Azure Fundamentals (previsto Q1/2026)
-
-Python Avançado + IA Generativa
 
 Inteligência Artificial & Machine Learning
 
