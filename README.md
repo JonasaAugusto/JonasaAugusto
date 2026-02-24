@@ -42,6 +42,5 @@ Azure Fundamentals (previsto Q1/2026)
 
 Inteligência Artificial & Machine Learning
 
-<h2 align="center">🌍 Portfólio & Projetos</h2> <br> <p align="center"> <strong>🖥️ Portfólio Completo:</strong><br> <a href="https://jonasaaugusto.github.io" target="_blank"> https://jonasaaugusto.github.io </a> </p> <p align="center"> Mostro projetos reais, com métricas e detalhes técnicos sobre automação, IA aplicada e integrações API-first. </p>
+<h2 align="center"> Portfólio & Projetos</h2> <br> <p align="center"> <strong>🖥️ Portfólio Completo:</strong><br> <a href="https://jonasaaugusto.github.io" target="_blank"> https://jonasaaugusto.github.io </a> </p> <p align="center"> Mostro projetos reais, com métricas e detalhes técnicos sobre automação, IA aplicada e integrações API-first. </p>
 <h2 align="center">💬 Soft Skills</h2> <br> <p align="center"> ✔️ Resolução de problemas reais em produção<br> ✔️ Comunicação clara para explicar soluções técnicas<br> ✔️ Adaptação rápida a novas tecnologias<br> ✔️ Autonomia e organização em múltiplos projetos simultâneos<br> ✔️ Colaboração em times com metodologias ágeis </p>
-<p align="center"> <em>"Não busco apenas automatizar processos — busco criar sistemas que evoluem negócios."</em> </p>
