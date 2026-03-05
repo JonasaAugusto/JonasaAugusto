@@ -85,8 +85,8 @@ Média Global: 8.0/10 | Formação prática em programação web/desktop.
 ## 📜 Certificações
 
 ### Em Progresso (2025-2026)
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white) (Q1/2026)  
-- ![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) (Jan/2026)  
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white) (2026)  
+- ![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) (2026)  
 - ![IA & Machine Learning](https://img.shields.io/badge/IA%20%26%20Machine%20Learning-4285F4?style=flat-square&logo=google&logoColor=white) (Guia Completo)  
 - ![FastAPI Avançado](https://img.shields.io/badge/FastAPI%20Avan%C3%A7ado-green?style=flat-square&logo=fastapi&logoColor=white) | TDD | PostgreSQL  
 - ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white) (Desenvolvimento de Aplicativos Empresariais)  
