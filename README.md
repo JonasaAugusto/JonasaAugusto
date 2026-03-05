@@ -98,8 +98,7 @@ Volpatto Engenharia e Arquitetura de Guaíra LTDA - Freelance | Ago - Set 2023
 - **Discord Zombot (Python)**: Chatbot para servidores de jogos com moderação automática e tutoriais interativos; elevou NPS em 35%. [GitHub](https://github.com/JonasaAugusto/DiscordChatBot_Zombot)
 - **Instagram Comments Gen (Python)**: Script de automação com Pyautogui para geração inteligente de comentários; taxa de bloqueio <2%. [GitHub](https://github.com/JonasaAugusto/instagram-comments)
 - **Bot Anti-Deteção (Python)**: Algoritmo de simulação humana (movimentos não-lineares, pausas estocásticas) com taxa de bloqueio <2%.
-- **Otimização SQL Full Stack**: Refatoração de queries em sistema de gestão, reduzindo tempo de carregamento de 8s para 3,2s (-60%).
-
+- 
 ## 🎓 Formação Acadêmica
 
 ### ENGENHARIA DE SOFTWARE
