@@ -41,8 +41,6 @@ Atuo na interseção entre Backend, DevOps e LLMOps, projetando fluxos que reduz
 | **LogiTrack API**       | API de logística com PostgreSQL e Docker Compose. Backend para gerenciamento de fluxos logísticos, integrando banco de dados relacional e containerização para deployment escalável e automatizado. Foco em alta performance com operações assíncronas. | Python, FastAPI, PostgreSQL, Docker | [GitHub](https://github.com/JonasaAugusto/logitrackAPI) |
 | **Discord Zombot**      | Chatbot para servidores de jogos com moderação automática e tutoriais interativos; elevou NPS em 35%. | Python, Discord.py | [GitHub](https://github.com/JonasaAugusto/DiscordChatBot_Zombot) |
 | **Instagram Comments Gen** | Script de automação com Pyautogui para geração inteligente de comentários; taxa de bloqueio <2%. | Python, Pyautogui, Automation | [GitHub](https://github.com/JonasaAugusto/instagram-comments) |
-| **Bot Anti-Deteção**    | Algoritmo de simulação humana (movimentos não-lineares, pausas estocásticas) com taxa de bloqueio <2%. | Python, Automação | [GitHub](https://github.com/JonasaAugusto/instagram-comments) (integrado) |
-| **Otimização SQL Full Stack** | Refatoração de queries em sistema de gestão, reduzindo tempo de carregamento de 8s para 3,2s (-60%). | SQL, Otimização | [GitHub](https://github.com/JonasaAugusto) (repositório principal) |
 
 ## 🛠️ Tecnologias e Habilidades
 
