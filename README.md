@@ -202,7 +202,7 @@ Mapeamento de requisitos funcionais/não funcionais em UML/BPMN para 6 serviços
 
 ## Atualmente
 
-- 🔨 Construindo o **Hub de Mídia e Inteligência Local** — transcrição offline 100% local com Whisper AI
+- 🔨 Construindo o **Hub de Mídia e Inteligência Local** — transcrição offline 100% local com Whisper AI & Finalizando **LogitrackAPI**
 - 📚 Estudando **FastAPI Avançado + TDD** e **AWS Cloud Practitioner**
 - 🤖 Explorando arquiteturas de **multi-agentes** e **LLMOps em produção**
 
