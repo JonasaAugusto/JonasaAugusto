@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Jonas+Augusto;Desenvolvedor+Backend;Automa%C3%A7%C3%A3o+%26+Agentes+de+IA;Python+%7C+FastAPI+%7C+LLMs+%7C+Docker" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JonasaAugusto&color=0c87eb&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/jonasaaugusto" target="_blank">
@@ -199,17 +195,6 @@ Requisitos funcionais e não funcionais em UML/BPMN para 6 serviços, com foco e
 **Concluídos:** Python Avançado + IA Generativa (Udemy) · Especialista em Inteligência Artificial (Academia de IA) · Programação de Sistemas de Informação (Estácio) · Programação Web (Estácio) · Direito e Privacidade dos Usuários (Estácio)
 
 **Em andamento (2025–2026):** AWS Cloud Practitioner · Azure Fundamentals · IA & Machine Learning (Udemy) · FastAPI Avançado + TDD + PostgreSQL (Udemy) · Power Apps + Power Automate + SharePoint (Udemy)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JonasaAugusto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasaAugusto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" />
-
-</div>
 
 ---
 
