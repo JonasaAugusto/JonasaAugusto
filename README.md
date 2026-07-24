@@ -172,11 +172,11 @@ Quando um atendente entrava na conversa, o bot não pausava e ambos respondiam j
 Agentes de IA para venda de produtos digitais (empréstimos, internet, TV a cabo) com tráfego de dados sensíveis conforme LGPD. Integração com WhatsApp Business API e CRMs via webhooks, monitoramento de infraestrutura e retry patterns. → [Caso de estudo acima](#-caso-de-estudo--plataforma-autônoma-de-conversão-de-leads)
 
 **Estagiário em Automação de Processos e Analista de Suporte RPA**  
-**NEURODEV** · *Set – Nov 2025*  
+**NEURODEV** · *2025*  
 15+ integrações em Python conectando APIs externas (800+ transações/dia). Otimizei pipeline com OpenAI API de **15min → 27s (−97%)** via engenharia de prompt e cache inteligente. Refatorei RPA em Python com Docker: downtime de **35h → 2,25h/mês (−93,5%)**.
 
 **Desenvolvedor Júnior de Automação de Processos com IA**  
-**BNECT** · *Ago – Set 2025*  
+**BNECT** · *2025*  
 Serviços em Python integrando CRM/ERP via APIs, com padrões Factory e Strategy em arquitetura orientada a eventos. Orquestração de fluxos com LLMs via n8n e Python.
 
 **Analista de Requisitos de Software**  
