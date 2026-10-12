@@ -54,7 +54,7 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack. IA: Anthropic Claude, DeepSeek, LangChain, OpenAI API, MCP, Whisper. Backend: Python, FastAPI, Flask, TypeScript, C#, .NET MAUI, Playwright, n8n, Webhooks. Infra: Docker, Linux, nginx, Git, CI/CD, systemd. Dados: PostgreSQL, Supabase, Redis, SQLite, MySQL. Front: HTML5, CSS, JavaScript, React, Tailwind CSS">
+  <img src="assets/stack-light.svg" alt="Stack. IA: Anthropic Claude, DeepSeek, LangChain, OpenAI API, MCP, Whisper, Mistral OCR. Backend: Python, FastAPI, Flask, TypeScript, C#, .NET MAUI, Playwright, n8n, Webhooks. Infra: Docker, Linux, nginx, Git, CI/CD, systemd. Dados: PostgreSQL, Supabase, Redis, SQLite, MySQL. Front: HTML5, CSS, JavaScript, React, Tailwind CSS">
 </picture>
 
 ## Linguagens
