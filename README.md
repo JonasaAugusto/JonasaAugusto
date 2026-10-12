@@ -64,7 +64,7 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
   <img src="assets/langs-light.svg" alt="Linguagens mais usadas nos meus repositórios, públicos e privados: Python 51,9%, C# 16,7%, TypeScript 11,9%, JavaScript 8,0%, HTML 6,3% e outras 5,3%">
 </picture>
 
-<sub>Soma dos bytes de código dos meus repositórios, públicos e privados. Atualizado toda segunda-feira por uma GitHub Action.</sub>
+<sub>Soma dos bytes de código dos meus repositórios, públicos e privados.</sub>
 
 ## Experiência
 
