@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Jonas Augusto, Backend, Automação e Agentes de IA">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Jonas Augusto, fundador da Augustus AI Solutions. Agentes de IA, Automação e Web B2B">
 </picture>
 
 <div align="center">
