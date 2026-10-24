@@ -14,7 +14,7 @@
 ## Sobre
 
 Sou fundador da **Augustus AI Solutions**, onde atuo como CEO e desenvolvedor principal desde jun/2026, de forma remota. A empresa constrói agentes de IA, automações e soluções web para negócios (B2B).
-Tenho pouco mais de 1 ano de experiência profissional, e hoje entrego bots de atendimento e vendas no WhatsApp e as ferramentas internas que os sustentam.
+Tenho pouco mais de 1 ano de experiência profissional em estágio e freelancer, e hoje entrego bots de atendimento e vendas no WhatsApp e as ferramentas internas que os sustentam.
 Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1.
 
 ## Projetos profissionais
