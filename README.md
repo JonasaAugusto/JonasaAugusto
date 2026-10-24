@@ -23,6 +23,7 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 | :-- | :-- | :-- |
 | **Raízes & Escamas** (cliente) | Bot de atendimento e vendas no WhatsApp para uma loja de aquarismo: RAG com 430 entradas, cadastro em lote pelo grupo do dono (texto, áudio e foto), guarda de quantidades no orçamento, PIX e pós-venda com triagem. Roda como serviço na VPS própria. | `TypeScript` `Baileys` `DeepSeek` `RAG` `systemd` |
 | **F5 Tecnologia** (caso abaixo) | Plataforma autônoma de conversão de leads com IA pelo WhatsApp. | `TypeScript` `Baileys` `DeepSeek` `PostgreSQL` |
+| **Monobloco** (cliente) | Landing page comercial sob demanda, com foco em conversão e apresentação de produto/serviço. Publicada em produção. | `Landing page` `Web` |
 
 ## Caso de estudo · F5 Tecnologia
 
