@@ -59,7 +59,7 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 | Projeto | O que faz | Stack |
 | :-- | :-- | :-- |
 | [**IAprovale**](https://github.com/JonasaAugusto/IAprovale) | Buscador de concursos com IA: traduz a busca em linguagem natural via DeepSeek e consulta a fonte oficial por MCP. | `Python` `FastAPI` `DeepSeek` `MCP` |
-| [**Conector WhatsApp modular**](https://github.com/JonasaAugusto/whatsappmoduleconnector) · Produto B2B | Serviço que conecta e desconecta bots de WhatsApp por QR Code, cada bot de forma independente. Construído em vez de usar o OpenClaw, que gera rastro de automação para a Meta. | `Python` `FastAPI` `Baileys` |
+| **Conector WhatsApp modular** (repositório privado) · Produto B2B | Serviço que conecta e desconecta bots de WhatsApp por QR Code, cada bot de forma independente. Construído em vez de usar o OpenClaw, que gera rastro de automação para a Meta. | `Python` `FastAPI` `Baileys` |
 
 ## Stack
 
