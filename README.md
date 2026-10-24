@@ -5,24 +5,24 @@
 
 <div align="center">
 
-**Desenvolvedor backend focado em automação inteligente e agentes de IA**
+**Fundador da Augustus AI Solutions · Agentes de IA, Automação e Web B2B**
 
-[Portfólio](https://jonasaaugusto.github.io) · [LinkedIn](https://www.linkedin.com/in/jonasaaugusto) · [Currículo (PDF)](https://jonasaaugusto.github.io/JonasAugusto_cv_m.pdf) · [E-mail](mailto:jonasaugustoprofissional@gmail.com) · Augustus AI Solutions <!-- TODO: link -->
+[Portfólio](https://jonasaaugusto.github.io) · [LinkedIn](https://www.linkedin.com/in/jonasaaugusto) · [Currículo (PDF)](https://jonasaaugusto.github.io/JonasAugusto_cv_m.pdf) · [E-mail](mailto:jonasaugustoprofissional@gmail.com) · Augustus AI Solutions
 
 </div>
 
 ## Sobre
 
-Trabalho com backend e agentes de IA com LLMs (OpenAI, Anthropic, DeepSeek), integrando APIs complexas e otimizando latência crítica.
-Meu foco é confiabilidade em produção: retry patterns, fallback, monitoramento e observabilidade.
+Sou fundador da **Augustus AI Solutions**, onde atuo como CEO e desenvolvedor principal desde jun/2026, de forma remota. A empresa constrói agentes de IA, automações e soluções web para negócios (B2B).
+Tenho pouco mais de 1 ano de experiência profissional, e hoje entrego bots de atendimento e vendas no WhatsApp e as ferramentas internas que os sustentam.
 Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1.
 
-## Em produção
+## Projetos profissionais
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <img src="assets/metrics-light.svg" alt="97% menos latência (de 15 min para 27 s), 93,5% menos downtime, 99,97% de uptime e 170+ clientes recuperados">
-</picture>
+| Projeto | O que faz | Stack |
+| :-- | :-- | :-- |
+| **Raízes & Escamas** (cliente) | Bot de atendimento e vendas no WhatsApp para uma loja de aquarismo: RAG com 430 entradas, cadastro em lote pelo grupo do dono (texto, áudio e foto), guarda de quantidades no orçamento, PIX e pós-venda com triagem. Roda como serviço na VPS própria. | `TypeScript` `Baileys` `DeepSeek` `RAG` `systemd` |
+| **F5 Tecnologia** (caso abaixo) | Plataforma autônoma de conversão de leads com IA pelo WhatsApp. | `MCP` `Playwright` `WhatsApp` |
 
 ## Caso de estudo · F5 Tecnologia
 
@@ -36,25 +36,30 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 [Ver o caso completo no portfólio →](https://jonasaaugusto.github.io/#experiencia)
 
-## Projetos
+## Projeto principal
+
+**AugustusApp** · app interno da empresa (repositório privado). Reúne em um só lugar:
+
+- transcrição local de reuniões com WhisperX large-v3 e diarização, com resumo por LLM local (Ollama);
+- terminal SSH interno da VPS;
+- conector de WhatsApp modular e gestão dos bots na VPS;
+- administração de backup da VPS com restic para o Backblaze B2;
+- publicação versionada do app.
+
+`C#` `.NET 10` `MAUI` `CommunityToolkit.Mvvm` `Python` `WhisperX` `Ollama` `SSH.NET` `xterm.js`
+
+## Mais projetos
 
 | Projeto | O que faz | Stack |
 | :-- | :-- | :-- |
 | [**IAprovale**](https://github.com/JonasaAugusto/IAprovale) | Buscador de concursos com IA: traduz a busca em linguagem natural via DeepSeek e consulta a fonte oficial por MCP. | `Python` `FastAPI` `DeepSeek` `MCP` |
-| [**LogiTrack API**](https://github.com/JonasaAugusto/logitrackAPI) | API RESTful de logística com rastreamento em tempo real, relatórios assíncronos e JWT. | `Python` `FastAPI` `PostgreSQL` `Docker` |
-| [**NotaME**](https://github.com/JonasaAugusto/NotaME) | App mobile/desktop para recibos em PDF, NFS-e e gestão de clientes; offline-first com sincronização P2P e AES-256. | `C#` `.NET MAUI` `SQLite` |
-| [**Fabula Coop**](https://github.com/JonasaAugusto/FabulaCoop) | RPG de texto cooperativo em tempo real em que uma IA atua como mestre da campanha. | `Python` `LLM` `Realtime` |
-| [**Pocket Infra**](https://github.com/JonasaAugusto/pocket-infra) | Liga um PC Windows remotamente (Wake-on-LAN) e inicia sessões de Claude Code via adesivo NFC. | `Tailscale` `iOS Shortcuts` `NFC` |
-| **VoxAI** (privado) | Transcrição offline de áudio e vídeo com Whisper on-device, sem custo de servidor. | `C#` `.NET MAUI` `Whisper` `FFmpeg` |
-
-> [!TIP]
-> **Freelance e Augustus AI Solutions:** agente de IA no WhatsApp (DuTony Hotburguers) e landing pages (Monobloco, Dário Fretes).
+| [**Conector WhatsApp modular**](https://github.com/JonasaAugusto/whatsappmoduleconnector) · Produto B2B | Serviço que conecta e desconecta bots de WhatsApp por QR Code, cada bot de forma independente. Construído em vez de usar o OpenClaw, que gera rastro de automação para a Meta. | `Python` `FastAPI` `Baileys` |
 
 ## Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack. IA: Anthropic Claude, DeepSeek, LangChain, OpenAI API, MCP, Whisper, Mistral OCR. Backend: Python, FastAPI, Flask, TypeScript, C#, .NET MAUI, Playwright, n8n, Webhooks. Infra: Docker, Linux, nginx, Git, CI/CD, systemd. Dados: PostgreSQL, Supabase, Redis, SQLite, MySQL. Front: HTML5, CSS, JavaScript, React, Tailwind CSS">
+  <img src="assets/stack-light.svg" alt="Stack. App: C#, .NET 10, MAUI, CommunityToolkit.Mvvm, SSH.NET, xterm.js. IA: WhisperX, pyannote, Ollama, DeepSeek, RAG, MCP. Backend: Python, FastAPI, TypeScript, Node.js, Baileys. Dados: PostgreSQL, SQLite. Infra: Linux, systemd, restic, Backblaze B2, SSH">
 </picture>
 
 ## Linguagens
@@ -70,6 +75,7 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 | Período | Cargo · Empresa |
 | :-- | :-- |
+| jun/2026 – atual | **Fundador, CEO e Desenvolvedor Principal** · Augustus AI Solutions (remoto). Agentes de IA, automação e web B2B. |
 | mai/2026 – atual | **Estagiário em Desenvolvimento e Automação** · F5 Tecnologia. Agentes de IA para venda de produtos digitais (crédito e energia), com dados sensíveis conforme a LGPD. |
 | set–nov/2025 | **Estagiário de Automação de Processos e Suporte RPA** · NeuroDev |
 | ago–set/2025 | **Desenvolvedor Júnior de Automação de Processos com IA** · BNECT |
@@ -82,9 +88,8 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 ## Atualmente
 
-- Evoluindo o IAprovale: cliente web e expansão da camada MCP.
-- Construindo o VoxAI: transcrição 100% offline com Whisper on-device.
-- Estudando FastAPI Avançado + TDD e AWS Cloud Practitioner.
+- Evoluindo o AugustusApp e os bots de WhatsApp em produção na VPS.
+- Mantendo o IAprovale e o Conector WhatsApp modular.
 
 ---
 
@@ -92,6 +97,6 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 Juiz de Fora, MG · [jonasaugustoprofissional@gmail.com](mailto:jonasaugustoprofissional@gmail.com)
 
-*Backend developer focused on AI agents and automation. Portfolio and case study in English at [jonasaaugusto.github.io](https://jonasaaugusto.github.io).*
+*Founder of Augustus AI Solutions, building AI agents, automation and B2B web. Portfolio and case study in English at [jonasaaugusto.github.io](https://jonasaaugusto.github.io).*
 
 </div>
