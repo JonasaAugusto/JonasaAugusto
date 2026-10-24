@@ -22,17 +22,22 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 | Projeto | O que faz | Stack |
 | :-- | :-- | :-- |
 | **Raízes & Escamas** (cliente) | Bot de atendimento e vendas no WhatsApp para uma loja de aquarismo: RAG com 430 entradas, cadastro em lote pelo grupo do dono (texto, áudio e foto), guarda de quantidades no orçamento, PIX e pós-venda com triagem. Roda como serviço na VPS própria. | `TypeScript` `Baileys` `DeepSeek` `RAG` `systemd` |
-| **F5 Tecnologia** (caso abaixo) | Plataforma autônoma de conversão de leads com IA pelo WhatsApp. | `MCP` `Playwright` `WhatsApp` |
+| **F5 Tecnologia** (caso abaixo) | Plataforma autônoma de conversão de leads com IA pelo WhatsApp. | `TypeScript` `Baileys` `DeepSeek` `PostgreSQL` |
 
 ## Caso de estudo · F5 Tecnologia
 
 > [!NOTE]
-> Plataforma autônoma de conversão de leads com IA, em produção 24/7. Recebe leads pelo WhatsApp, conduz o atendimento com um agente de IA, coleta dados, gera propostas com um parceiro financeiro e cadastra clientes em programas do setor de energia. Atuei de ponta a ponta: arquitetura, agente, integrações e confiabilidade.
+> Plataforma de relacionamento e automação de pós-venda para uma operação de TV por assinatura: um agente de IA no WhatsApp (boas-vindas, jornada de benefícios, briefing diário e alertas de cobrança), reformulação do painel CRM e ajustes de cadência na integração com a Blip. Atuei de ponta a ponta, da arquitetura aos testes. Agente validado em sandbox e em stack de homologação (23/10/2026); painel e Blip em produção.
 
-- Agente de IA com fallback, prompts por etapa, contexto isolado por lead e guardrails anti-alucinação.
-- Pipeline de OCR para documentos e máquina de estados de 9 etapas com persistência por lead.
-- Arquitetura distribuída: automação de navegador (Playwright) isolada do agente e da orquestração.
-- Servidor MCP criado do zero: o funil vira ferramentas que o agente chama no próprio turno, e a finalização só executa com confirmação explícita validada no código.
+**Arquitetura:** 7 serviços em Docker Compose numa VPS Ubuntu (TypeScript/Node.js 22, Fastify, BullMQ + Redis, PostgreSQL 16 com pgvector, Baileys, DeepSeek com tool calling, Groq Whisper e Python/FastAPI). Deploy por GitHub Actions com revisor obrigatório e sessão do WhatsApp cifrada em AES-256-GCM.
+
+- **Regras antes do modelo:** pedidos de saída, de humano e contestações são detectados de forma determinística; a resposta do modelo ainda passa por guardrails que reprovam valor sem fonte e vazamento de prompt.
+- **Thinking por política:** o backend liga o raciocínio só onde compensa (fatura, plano, reclamação, retenção), com custo médio de US$ 0,0007 por turno.
+- **RAG com níveis de confiança:** busca híbrida (full-text + vetor); com confiança baixa, o agente confirma com o time em vez de responder.
+- **Tabela de envios como fonte da verdade:** cada mensagem proativa é uma linha com chave de deduplicação, e queda ou reprocesso não duplicam nem perdem envios.
+- **Proteção do número:** aquecimento gradual, janela de envio, intervalos aleatórios e botão para pausar o agente.
+- **Painel e Blip:** primeira carga do painel de ~10 s para 0,1 s (cache em segundo plano, ETag/304), conferência com os portais a cada 10 minutos (0 divergências em 1.960 itens) e CRM de conversas da Blip espelhado no painel.
+- **Testes:** mais de 750 automatizados, mais de 2.600 casos de fuzz e ataque, e 82 rodadas de jailbreak e prompt injection com 0 falhas.
 
 [Ver o caso completo no portfólio →](https://jonasaaugusto.github.io/#experiencia)
 
