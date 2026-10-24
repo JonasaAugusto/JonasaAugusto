@@ -36,7 +36,7 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 - **RAG com níveis de confiança:** busca híbrida (full-text + vetor); com confiança baixa, o agente confirma com o time em vez de responder.
 - **Tabela de envios como fonte da verdade:** cada mensagem proativa é uma linha com chave de deduplicação, e queda ou reprocesso não duplicam nem perdem envios.
 - **Proteção do número:** aquecimento gradual, janela de envio, intervalos aleatórios e botão para pausar o agente.
-- **Painel e Blip:** primeira carga do painel de ~10 s para 0,1 s (cache em segundo plano, ETag/304), conferência com os portais a cada 10 minutos (0 divergências em 1.960 itens) e CRM de conversas da Blip espelhado no painel.
+- **Painel e Blip:** o cache vencia antes do próximo pedido e remontava tudo dentro da requisição; passou a ser montado em thread fora dela, com leitura incremental e respostas prontas com ETag. Medido em produção (15/10/2026): abrir o painel de 73,7 s para 0,08 s, atualização sem mudança de 4,6 s/1,0 MB para 0,01 s/0 bytes (304), painel fora do ar no reinício de 95 s para 1 s, memória de 268 MB + 410 MB de swap para 264 MB sem swap, e funil da Blip de erro 500 para 0,03 s. Também: conferência com os portais a cada 10 minutos (0 divergências em 1.960 itens) e CRM de conversas da Blip espelhado no painel.
 - **Testes:** mais de 750 automatizados, mais de 2.600 casos de fuzz e ataque, e 82 rodadas de jailbreak e prompt injection com 0 falhas.
 
 [Ver o caso completo no portfólio →](https://jonasaaugusto.github.io/#experiencia)
