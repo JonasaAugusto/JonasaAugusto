@@ -38,10 +38,12 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
-  <img src="assets/langs-light.svg" alt="Linguagens mais usadas nos meus repositórios, públicos e privados: Python 51,9%, C# 16,7%, TypeScript 11,9%, JavaScript 8,0%, HTML 6,3% e outras 5,3%">
+  <img src="assets/langs-light.svg" alt="Linguagens mais usadas nos meus repositórios, públicos e privados: Python 40,8%, TypeScript 22,3%, C# 21,9%, JavaScript 7,1%, HTML 3,9% e outras 4,0%">
 </picture>
 
 <sub>Soma dos bytes de código dos meus repositórios, públicos e privados.</sub>
+
+<sub>Meu foco em backend é **Python e C#**. O TypeScript vem do robô de WhatsApp da Raízes & Escamas, em produção com cliente real: a biblioteca de WhatsApp (Baileys) só existe em Node. Nos agentes novos, o núcleo é Python e só a ponte com o WhatsApp fica em TypeScript.</sub>
 
 ## Experiência
 
