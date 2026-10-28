@@ -49,7 +49,8 @@ Engenharia de Software na Estácio (CR 9,3, formatura em dez/2026) · inglês C1
 
 | Período | Cargo · Empresa |
 | :-- | :-- |
-| jun/2026 – atual | **Fundador, CEO e Desenvolvedor Principal** · Augustus AI Solutions (remoto). Agentes de IA, automação e web B2B. |
+| jun/2026 – atual | **Fundador, CEO e Desenvolvedor Principal** · Augustus AI Solutions (remoto). Agentes de IA, Automação, Web B2B, App e Web App. |
+| mai/2026 – atual | **Estagiário em Desenvolvimento e Automação** · F5 Tecnologia (presencial). Agentes de IA, Web, DevOps. |
 | set–nov/2025 | **Estagiário de Automação de Processos e Suporte RPA** · NeuroDev |
 | ago–set/2025 | **Desenvolvedor Júnior de Automação de Processos com IA** · BNECT |
 
